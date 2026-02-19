@@ -1,4 +1,4 @@
-# 🧠 Breast Cancer Histology Image Analysis Project
+# Breast Cancer Histology Image Analysis Project
 This project is designed to analyze breast cancer histology images using various deep learning models and clustering algorithms. The primary goal is to obtain the label change percentage through clustering. The project utilizes the BreakHis dataset, a collection of breast cancer histology images, and using clustering algorithms to find the label changes.
 ## 🚀 Features
 * Extraction of features from breast cancer histology images using various CNN models (Xception, EfficientNetB0, ResNet152, VGG19, MobileNetV3)
@@ -50,5 +50,6 @@ Project Directory
 │   ├── MobileNetV3_features.npy
 ├── README.md
 ├──clustering_results.csv
-├──
+├──labels.csv
+├──Accuracy comparison.ipynb
 ```
